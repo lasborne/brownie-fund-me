@@ -1,0 +1,4 @@
+[
+  "tests/test_fund_me.py::test_can_fund_and_withdraw",
+  "tests/test_fund_me.py::test_only_owner_can_withdraw"
+]
